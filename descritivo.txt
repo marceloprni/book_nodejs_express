@@ -1,0 +1,5 @@
+GIT 
+git init 
+git add -A  - ADD TUDO.
+git add mean.js - Assim voce add só um arquivo
+git commit -m "initial commit".
